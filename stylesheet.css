@@ -13213,6 +13213,10 @@ h3 {
   padding-bottom: 70px;
 }
 
+.bg-fourth {
+  background-color: #FCFCFC;
+}
+
 * {
   scroll-behavior: smooth;
 }
