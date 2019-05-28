@@ -13214,7 +13214,7 @@ h3 {
 }
 
 .bg-fourth {
-  background-color: #FCFCFC;
+  background-color: #FCFCFC !important;
 }
 
 * {
